@@ -1,8 +1,8 @@
 # NEXGEN - Mitosis Detector with TensorFlow & Keras
 
-NEXGEN is an AI model built with TensorFlow and Keras to identify mitotic figures (cell division) in microscopic images. This project explores the potential for high-accuracy Mitosis detection and its possible application in cancer/micro-anomaly research (further exploration needed). The Model includes CNN, RNN and transfer learning to carry out required task. It provides 80%+ accuracy and is equally well to different type of training and test data!
+NEXGEN is an AI model built with TensorFlow and Keras to identify mitotic figures (cell division) in microscopic images. This project explores the potential for high-accuracy Mitosis detection and its possible application in cancer/micro-anomaly research (further exploration needed). The Model includes CNN, RNN and transfer learning to carry out required task. It provides 80%+ accuracy and works equally well to different type of training and test dataset!
 
-**Note:** This project is intended for educational and research purposes. The model was basically build for AI-Competition
+**Note:** This project is intended for educational and research purposes. The model was basically developed for an AI-Competition!
 
 **License:**
 
